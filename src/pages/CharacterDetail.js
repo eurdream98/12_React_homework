@@ -15,6 +15,7 @@ function CharacterDetail(){
                 })
         },[]
     )
+
     return(
         char &&
         <div>
